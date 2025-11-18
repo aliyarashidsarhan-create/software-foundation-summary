@@ -51,3 +51,42 @@ Database Types:
 SQL (MySQL, PostgreSQL, SQL Server)
 
 NoSQL (MongoDB, Firebase, Cassandra)
+
+.NET Stack Tools Explained
+1. SQL Server (Database)
+
+A powerful relational database used to store your application's data.
+
+Works with tables, rows, and relationships.
+
+Commonly used with .NET applications for secure, scalable, and fast data storage.
+2. C# (Backend Programming Language)
+
+The main programming language used in the .NET ecosystem.
+
+Used to build backend logic, APIs, business rules, authentication, etc.
+
+Clean, modern, and object-oriented.
+3. EF Core (ORM)
+
+Entity Framework Core is an Object-Relational Mapper.
+
+Allows you to work with the database using C# objects instead of SQL queries.
+
+Handles table creation, migrations, and CRUD operations easily.
+4. LINQ (Querying Tool in C#)
+
+Stands for Language Integrated Query.
+
+Works with EF Core, lists, arrays, and more to query data easily.
+5. Blazor (Frontend Framework)
+
+A frontend UI framework under .NET.
+
+Lets you build interactive web apps using C# instead of JavaScript.
+
+Two modes:
+
+Blazor Server (runs on server)
+
+Blazor WebAssembly (runs in browser)
