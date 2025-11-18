@@ -1,0 +1,7 @@
+Agile (in Simple Words)
+
+Agile is a modern way of developing software where work is done step-by-step, continuously improved, and delivered quickly.
+
+Sprint (in Simple Words)
+
+A Sprint is a short development cycle in Agile, usually 1–4 weeks, where the team works on specific tasks to deliver a small but working part of the product.
