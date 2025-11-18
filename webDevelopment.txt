@@ -1,0 +1,53 @@
+1. Front-End (Client Side)
+
+The front-end is everything the user sees and interacts with on the screen.
+
+Responsibilities:
+
+Display the user interface (UI) — buttons, forms, images, menus.
+
+Handle user actions (clicks, typing, navigation).
+
+Send user requests to the backend using APIs.
+
+Show data received from the backend in a clean and responsive way.
+
+Ensure the website/app works across devices (mobile, tablet, desktop).
+
+2. Back-End (Server Side)
+
+The back-end works behind the scenes and handles the logic of the application.
+
+Responsibilities:
+
+Process user requests received from the front-end.
+
+Apply business logic (rules of the application).
+
+Communicate with the database to store or retrieve data.
+
+Authenticate users (login, security, permissions).
+
+Manage servers, APIs, and application performance.
+
+Technologies: Node.js, Java Spring Boot, .NET, Python Django/Flask, PHP, etc.
+
+3. Database (Data Storage)
+
+The database stores all the important information for the application.
+
+Responsibilities:
+
+Save data (users, products, messages, transactions, etc.).
+
+Provide data to the backend when requested.
+
+Ensure data is organized, consistent, and secure.
+
+Handle data updates, deletions, and queries efficiently.
+
+Database Types:
+
+SQL (MySQL, PostgreSQL, SQL Server)
+
+NoSQL (MongoDB, Firebase, Cassandra)
