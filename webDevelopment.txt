@@ -90,3 +90,72 @@ Two modes:
 Blazor Server (runs on server)
 
 Blazor WebAssembly (runs in browser)
+
+Summary / Take-Home Points
+
+C:
+Compilation / Execution Model:Compiled to IL (Intermediate Language) and runs on .NET CLR; supports JIT and ahead-of-time (AOT) compilation.
+Speed / Performance:Generally very good performance; close to Java in many cases; managed memory with garbage collection.
+Usage:
+Used for web apps (ASP.NET), desktop apps, mobile apps (Xamarin / MAUI), game development (Unity), and enterprise systems.
+Advantages:
+
+Strong performance
+
+Modern syntax with many features
+
+Excellent Microsoft ecosystem
+
+Great for Windows, cloud, and games
+
+Latest Version:
+As of 2025, the latest major version is C# 13 (with .NET 9).
+
+Java
+
+Compiling:
+Java is also a compiled and interpreted language. Code compiles to bytecode, then runs on the Java Virtual Machine (JVM).
+
+Speed:
+High performance, very close to C#. Faster than Python because of JVM optimizations.
+
+Usage:
+Used heavily in enterprise systems, Android development, banking, large-scale applications, and backend systems like Spring Boot.
+
+Advantages:
+
+Very portable (Write Once, Run Anywhere)
+
+Huge ecosystem and libraries
+
+Stable, widely used in companies
+
+Strong community and long-term support
+
+Latest Version:
+Around 2025, the current release is Java 23.
+
+Python
+
+Compiling:
+Python is an interpreted language. Code runs line-by-line using the CPython interpreter.
+
+Speed:
+Generally slower than C# and Java because it is interpreted and dynamic.
+
+Usage:
+Extremely popular for AI & machine learning, automation, data science, scripting, web development, and education.
+
+Advantages:
+
+Very easy to learn
+
+Huge support in AI and data science
+
+Simple syntax
+
+Massive number of libraries (NumPy, Pandas, Django, etc.)
+
+Latest Version:
+As of 2025, the latest stable version is Python 3.13.
+
